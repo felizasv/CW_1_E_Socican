@@ -21,7 +21,7 @@ The tutorials are based on the Snake game mechanics and are as follow:
 
 ##### 3. Programming Task Log [a link](https://github.com/felizasv/CW_1_E_Socican/blob/master/Programming%20Task%20Log.md)
 
-##### 4. Learning Journal[a link](https://github.com/felizasv/CW_1_E_Socican/blob/master/Learning_Journal.md)
+##### 4. Learning Journal [a link](https://github.com/felizasv/CW_1_E_Socican/blob/master/Learning_Journal.md)
 
 
  
